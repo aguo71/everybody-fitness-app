@@ -8,7 +8,7 @@ Lauren Choi (@lauren-choi), Alex Guo (@aguo71), David Moon (@damoon843), Joshua 
 
 With the new circumstances brought about by COVID-19, going to the gym for a workout with weights is not as accessible as before. Hence, there has been a noticeable increase in consumption of simple guided bodyweight workouts (strength or cardio-related), whether from user-uploaded videos on youtube or paid collections from a fitness organization. EveryBODY is the fitness social media app for all, by all, serving as a mobile platform to share and view other users' bodyweight workouts.
 
-**Final Presentation:** A link to the final product presentation can be found [here](https://docs.google.com/presentation/d/1__YhvloPYGBAoIf8TNcaFXsW2IOT7QlMt8n_5kbyh5w/edit#slide=id.gd2a99047a1_0_10).
+**Final Presentation:** A link to the final product presentation can be found [here](https://docs.google.com/presentation/d/1jT1zSIVFOO5sbwduUtVZ9Xd1Ql5eM1j-/edit?usp=sharing&ouid=115646218128895856814&rtpof=true&sd=true).
 
 ## Key Features
 
